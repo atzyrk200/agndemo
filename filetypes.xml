@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="login" type="Dictionary" />
+      <mapping pattern="LoginComponent.ts" type="PLAIN_TEXT" />
+      <mapping pattern="reducer_Comment.js" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
